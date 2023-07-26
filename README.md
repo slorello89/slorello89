@@ -9,7 +9,7 @@
 
 Howdy, I'm Steve Lorello, I'm a hacker, builder, and speaker. I'm a Senior Field Engineer at Redis where I've built/maintained 
 a variety of projects used by thousands of developers. I've also had the opportunity to speak all over the
-world. I've taken the stage from Miami, to Louisville, to London, all the way out to Prague to share my knowledge across a variety
+world. I've taken the stage at a variety of venues from Miami, to Louisville, to London, all the way out to Prague to share my knowledge across a variety
 of topics including Computer Vision, Data Structures, and of course Redis.
 
 I can hack in pretty much anything, (C/C++, golang, js/ts, Java), but I probably most specialized in .NET which is
