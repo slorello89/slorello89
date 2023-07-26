@@ -1,6 +1,4 @@
 <div align="center">
-  <br/>
-  <br/>
   <h1>Hi Internet! I'm Steve 👋</h1>
   <img width="613px" height="400px" src="cover.png" alt="Cover Photo" />
   <br/>
