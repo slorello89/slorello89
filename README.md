@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Steve 👋</h1>
-  <img width="613px" height="400px" src="cover.png" alt="Cover Photo" />
-  <br/>
-  <br/>
+  <h1>Hi, I'm Steve 👋</h1>  
 </div>
 
 Howdy, I'm Steve Lorello, I'm a hacker, builder, and speaker. I'm a Senior Field Engineer at Redis where I've built/maintained 
