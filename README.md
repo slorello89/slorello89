@@ -28,7 +28,7 @@ Satellites.
 
 ## Recent Posts
 
-* [How to Build a Distributed Inference Cache with NVIDIA Triton and Redis] (https://developer.nvidia.com/blog/how-to-build-a-distributed-inference-cache-with-nvidia-triton-and-redis/)
+* [How to Build a Distributed Inference Cache with NVIDIA Triton and Redis](https://developer.nvidia.com/blog/how-to-build-a-distributed-inference-cache-with-nvidia-triton-and-redis/)
 * [How to Use Redis as a Data Source for Power BI with Redis SQL](https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/how-to-use-redis-as-a-data-source-for-power-bi-with-redis-sql/ba-p/3799471)
 * [Redis University RU102N: Redis for .NET Developers](https://dev.to/slorello/redis-university-ru102n-redis-for-net-developers-30om)
 * [CRUD with Redis OM .NET](https://dev.to/slorello/crud-with-redis-om-net-c-advent-4gif)
