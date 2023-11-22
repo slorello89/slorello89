@@ -7,7 +7,7 @@ a variety of projects used by thousands of developers. I've also had the opportu
 world. I've taken the stage at a variety of venues from Miami, to Louisville, to London, all the way out to Prague to share my knowledge across a variety
 of topics including Computer Vision, Data Structures, and of course Redis.
 
-I can hack in pretty much anything, (C/C++, golang, js/ts, Java), but I probably most specialized in .NET which is
+I can hack in pretty much anything, (C/C++, golang, js/ts, Java), but I'm probably most specialized in .NET which is
 the ecosystem I got my start in building one of the sub-systems of the new generation of Global Positioning System (GPS)
 Satellites.
 
