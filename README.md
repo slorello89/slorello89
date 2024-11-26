@@ -17,11 +17,11 @@ Satellites.
 
 
 ## Current Projects
-* [RU102N: Redis for .NET Developers](https://university.redis.com/courses/ru102n/) - A free Redis University course to bootstrap a .NET developers journey with using Redis.
-* [Redis SQL ODBC](https://github.com/slorello89) - A native [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity) for Redis, providing a SQL interface for Redis usable for third-party BI tools that can consume ODBC drivers
 * [Redis OM .NET](https://github.com/redis/redis-om-dotnet) - a LINQ-based interface for Redis
 * [Redis OM Python](https://github.com/redis/redis-om-python) - A Pydantic based Object Mapper / lambada query builder for Redis
 * [Redis Sessions Java](https://github.com/redis-field-engineering/redis-sessions-java) - A Session State Manager for Java / Spring with some advanced features
+* [Redis SQL ODBC](https://github.com/slorello89) - A native [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity) for Redis, providing a SQL interface for Redis usable for third-party BI tools that can consume ODBC drivers
+* [RU102N: Redis for .NET Developers](https://university.redis.com/courses/ru102n/) - A free Redis University course to bootstrap a .NET developers journey with using Redis.
 
 
 
