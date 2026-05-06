@@ -2,7 +2,7 @@
   <h1>Hi, I'm Steve 👋</h1>  
 </div>
 
-Howdy, I'm Steve Lorello, I'm a hacker, builder, and speaker. I'm a Senior Field Engineer at Redis where I've built/maintained 
+Howdy, I'm Steve Lorello, I'm a hacker, builder, and speaker. I'm a Principal Field Engineer at Redis where I've built/maintained 
 a variety of projects used by thousands of developers. I've also had the opportunity to speak all over the
 world. I've taken the stage at a variety of venues from Miami, to Louisville, to London, all the way out to Prague to share my knowledge across a variety
 of topics including Computer Vision, Data Structures, and of course Redis.
@@ -10,11 +10,6 @@ of topics including Computer Vision, Data Structures, and of course Redis.
 I can hack in pretty much anything, (C/C++, golang, js/ts, Java), but I'm probably most specialized in .NET which is
 the ecosystem I got my start in building one of the sub-systems of the new generation of Global Positioning System (GPS)
 Satellites.
-
-<div align="center">    
-  <img src="https://github-readme-stats.vercel.app/api?username=slorello89&theme=radical&show_icons=true" alt="Cover Photo" />  
-</div>
-
 
 ## Current Projects
 * [Redis OM .NET](https://github.com/redis/redis-om-dotnet) - a LINQ-based interface for Redis
