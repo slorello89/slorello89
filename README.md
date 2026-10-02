@@ -2,7 +2,7 @@
   <h1>Hi, I'm Steve 👋</h1>  
 </div>
 
-Howdy, I'm Steve Lorello, I'm a hacker, builder, and speaker. I'm a Principal Forward Deployed Engineer at Redis where I've built/maintained 
+Howdy, I'm Steve Lorello, I'm a hacker, builder, and speaker. I'm an FDE at Redis where I've built/maintained 
 a variety of projects used by thousands of developers. I've also had the opportunity to speak all over the
 world. I've taken the stage at a variety of venues from Miami, to Louisville, to London, all the way out to Prague to share my knowledge across a variety
 of topics including Computer Vision, Data Structures, and of course Redis.
